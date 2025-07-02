@@ -32,7 +32,7 @@ The WindPowerGeneration project aims to efficiently process, clean, and analyze 
 * Basic validation (schema checks, duplicate detection)
 * Raw data storage in a data lake or distributed file system
 
----
+
 
 ### 2.2 Silver Layer (Cleaned and Enriched Data)
 
@@ -49,7 +49,7 @@ The WindPowerGeneration project aims to efficiently process, clean, and analyze 
 * Data enrichment (joining weather data with turbine readings)
 * Aggregate or filter records for key metrics
 
----
+
 
 ### 2.3 Gold Layer (Aggregated and Business-Level Data)
 
